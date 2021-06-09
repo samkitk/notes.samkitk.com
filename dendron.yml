@@ -8,6 +8,7 @@ noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 lookupConfirmVaultOnCreate: false
 site:
+    siteUrl: https://notes.samkitk.com
     copyAssets: true
     siteHierarchies:
         - root
