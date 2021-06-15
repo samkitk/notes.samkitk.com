@@ -24,4 +24,5 @@ site:
     logo: vault/logo-new.gif
     siteLastModified: true
     author: Samkit
+    siteFaviconPath: vault/favicon.ico
 initializeRemoteVaults: true
