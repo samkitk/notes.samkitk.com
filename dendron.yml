@@ -14,10 +14,14 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
+    title: Samkit's Notes
     description: Personal knowledge space
     duplicateNoteBehavior:
         action: useVault
         payload:
             - vault
+    ga_tracking: UA-174569008-1
+    logo: vault/logo.gif
+    siteLastModified: true
+    author: Samkit
 initializeRemoteVaults: true
