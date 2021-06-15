@@ -21,7 +21,7 @@ site:
         payload:
             - vault
     ga_tracking: UA-174569008-1
-    logo: vault/logo.gif
+    logo: vault/logo-new.gif
     siteLastModified: true
     author: Samkit
 initializeRemoteVaults: true
