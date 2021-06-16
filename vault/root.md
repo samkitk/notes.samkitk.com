@@ -2,7 +2,7 @@
 id: 0f63ea60-53aa-46f4-b656-5c1f0860462c
 title: Home 🏡
 desc: ''
-updated: 1623820524981
+updated: 1623820600688
 created: 1623255886799
 ---
 ## Hey 👋
@@ -27,7 +27,6 @@ In the coming future, I wish to look at this space as my second brain which will
 
 ## 🧠 Currently working on
 ![[now.2021.june]]
-
 
 ## Online Presence
 [GitHub](https://github.com/samkitk) 👨‍💻  
