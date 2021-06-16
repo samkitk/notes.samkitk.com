@@ -2,7 +2,7 @@
 id: 0f63ea60-53aa-46f4-b656-5c1f0860462c
 title: Home 🏡
 desc: ''
-updated: 1623822910074
+updated: 1623823229109
 created: 1623255886799
 ---
 ## Hey 👋
@@ -16,7 +16,7 @@ Testing content
 
 ## Newsletter
 
-<form
+<!-- <form
   action="https://buttondown.email/api/emails/embed-subscribe/samkit"
   method="post"
   target="popupwindow"
@@ -26,9 +26,10 @@ Testing content
   <input type="email" name="email" id="bd-email" />
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
-</form>
+</form> -->
 
 ## 🧠 Currently working on
+
 ![[now.2021.june]]
 
 ## Online Presence
