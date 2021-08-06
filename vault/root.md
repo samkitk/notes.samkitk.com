@@ -2,7 +2,7 @@
 id: 0f63ea60-53aa-46f4-b656-5c1f0860462c
 title: Home 🏡
 desc: ''
-updated: 1623824043199
+updated: 1624084515480
 created: 1623255886799
 ---
 ## Hey 👋
@@ -13,7 +13,9 @@ I am Samkit, a third year undergrad majoring in Computer Science and Engineering
 
 In the coming future, I wish to look at this space as my second brain which will help me find patterns in the multitude of chaos (:
 
-Testing content
+## 🧠 Currently working on
+
+![[now.2021.june]]
 
 ## Newsletter
 
@@ -28,10 +30,6 @@ Testing content
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
 </form>
-
-## 🧠 Currently working on
-
-![[now.2021.june]]
 
 ## Online Presence
 
