@@ -3,7 +3,7 @@ vaults:
     -
         fsPath: vault
 useFMTitle: true
-useNoteTitleForLink: true
+u`NoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 lookupConfirmVaultOnCreate: false
