@@ -24,6 +24,7 @@ site:
     logo: vault/logo-new.gif
     siteLastModified: true
     author: Samkit
+    twitter: samkitkundalia
     siteFaviconPath: vault/favicon.ico
 initializeRemoteVaults: true
 journal:
