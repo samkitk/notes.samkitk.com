@@ -2,7 +2,7 @@
 id: ZAnOfd2gZ6LnhhkBZxhmE
 title: L3
 desc: ''
-updated: 1629441450336
+updated: 1629447758733
 created: 1629437919229
 ---
 
@@ -78,3 +78,151 @@ Flash memories from 1K to 256K
 
 
 ![](/assets/images/2021-08-20-12-07-04.png)
+
+![](/assets/images/2021-08-20-12-08-24.png)
+
+
+![](/assets/images/2021-08-20-12-14-19.png)
+
+![](/assets/images/2021-08-20-12-18-03.png)
+
+![](/assets/images/2021-08-20-12-18-11.png)
+
+![](/assets/images/2021-08-20-13-14-24.png)
+
+
+```
+# include <avr/io.h>
+int main(void)
+
+{
+    unsigned char temp;
+    DDRB = 0x00;
+    DDRC = 0xFF; //display I u
+    while(1)
+    {
+        temp = PINB;
+        PORTC = temp +5;
+
+    }
+    return 0;
+
+}
+```
+
+![](/assets/images/2021-08-20-13-23-44.png)
+
+```
+# include <avr/io.h>
+int main(void)
+
+{
+    unsigned char temp;
+    DDRC = 0x00;
+    DDRB = 0xFF;
+    DDRD = 0xFF;
+    while(1)
+    {
+        temp = PINC;
+        if(temp<100)
+        {
+            PORTB = temp
+
+        }
+        else
+        {
+            PORTD = temp
+        }
+    }
+    return 0;
+
+}
+
+```
+
+![](/assets/images/2021-08-20-13-33-33.png)
+
+### Port Registers - Portx
+
+PORTx - Port Driver Register
+
+![](/assets/images/2021-08-20-13-34-23.png)
+
+![](/assets/images/2021-08-20-13-36-21.png)
+
+Question
+
+![](/assets/images/2021-08-20-13-40-04.png)
+
+```
+# include <avr/io.h>
+int main(void)
+
+{
+    DDRB=0xFF;
+    unsigned char i;
+    for(i=-4;i<=4;i++)
+    {
+        PORTB = i;
+    }
+    return 0;
+
+}
+```
+![](/assets/images/2021-08-20-13-47-28.png)
+
+
+If Frequency = 1MHz,  
+So Time Period = 1 micro second  == 10<sup>-3</sup> second
+
+
+![](/assets/images/2021-08-20-14-20-17.png)
+
+Not sure which is correct
+```
+#include <avr/io.h>
+
+int main() 
+{        
+    // Setting port B and C to output
+    DDRB = 0xFF;
+    DDRC = 0xFF;
+    // Initializing the input constant
+    unsigned int given_bcd = 0x29;
+
+    while(1)
+    {
+        unsigned int quotient = given_bcd / 16;
+        unsigned int remainder = given_bcd % 16;
+        PORTB = quotient;
+        PORTC = remainder;
+    }
+    return 0;
+}
+
+```
+Not Sure
+```
+#include <avr/io.h>
+
+int main() 
+{        
+    // Setting port B and C to output
+    DDRB = 0xFF;
+    DDRC = 0xFF;
+    // Initializing the constants
+    unsigned int given_bcd = 0x29;
+    unsigned int ascii_differnce = 30;
+
+    while(1)
+    {
+        unsigned int quotient = given_bcd / 16;
+        unsigned int remainder = given_bcd % 16;
+
+        PORTB = quotient + ascii_differnce;
+        PORTC = remainder + ascii_differnce;
+    }
+    return 0;
+}
+
+```

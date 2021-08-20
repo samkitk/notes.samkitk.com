@@ -2,7 +2,7 @@
 id: vQw0MaLe5sKTTqIxe65jb
 title: L1
 desc: ''
-updated: 1629109315777
+updated: 1629452437783
 created: 1629106867750
 ---
 
@@ -28,3 +28,6 @@ Introspection: Assesment of thoughts objectively by looking at its constituent c
 The issue with the above definition or Introspection or structuralism itself is that we do not have any idea about how it functions.
 
 ### Functionalist Approach (next lecture)
+
+
+### Behaviouralism
