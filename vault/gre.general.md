@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ''
-updated: 1629610197434
+updated: 1629617221524
 created: 1629538004250
 ---
 
@@ -27,7 +27,7 @@ Super Power Pack
     - [Quizlet 1 to 22](https://quizlet.com/saint1729/folders/gregmat/sets)
     - [Prep357](https://www.prepscholar.com/gre/blog/wp-content/uploads/sites/3/2016/11/PrepScholar-357-GRE-words-list.pdf)
     - [RepeatOff](https://www.powerscore.com/gre/help/content/Repeat-Offenders-Vocabulary.pdf)
-    -[500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
+    - [500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
 
 - GRE-LEVEL READING  
 The Economist  
@@ -50,6 +50,7 @@ Resources
 - GRE WORD CLUSTER from Reddit
 https://docs.google.com/spreadsheets/d/1dS9Vmzh1WJIE5h5cxSHQC0U5U_zKoaEF/edit#gid=845230344
 
-- 
+- GregMat List w Meaning  
+https://docs.google.com/spreadsheets/d/1PsOjn4WOALEujMvNlcNvSwB0LlvALTgl/edit#gid=2021787092
 
 
