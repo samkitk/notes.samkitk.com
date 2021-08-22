@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ''
-updated: 1629634161734
+updated: 1629644288338
 created: 1629538004250
 ---
 
@@ -30,6 +30,8 @@ Materials
     - [Prep357](https://www.prepscholar.com/gre/blog/wp-content/uploads/sites/3/2016/11/PrepScholar-357-GRE-words-list.pdf)
     - [RepeatOff](https://www.powerscore.com/gre/help/content/Repeat-Offenders-Vocabulary.pdf)
     - [500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
+    - [Vince Kotchian's Word Curation](https://docs.google.com/spreadsheets/d/1K4gS--jbDYbdlqem6Hir3FAwvLB9dFxNCLftE3ePduk/edit#gid=2009214833)
+    - [Anki's Vocab Deck](https://ankiweb.net/shared/info/1770632730)
 
 - GRE-LEVEL READING  
 The Economist  
@@ -47,7 +49,7 @@ Scientific American
     - [Math Interesting Flashcards](https://www.greenlighttestprep.com/sites/default/files/GRE%20Math%20flashcards%20-%20GreenlightTestPrep_1.pdf)
     - [QC](https://www.greenlighttestprep.com/sites/default/files/GRE%20Math%20flashcards%20-%20GreenlightTestPrep_1.pdf)
     - [Christmas Test](https://drive.google.com/file/d/1q26DxqumsBA4jipCRe5Kh2ITutimgqge/view)
-
+    - Quadrilaterals Formula (https://preview.redd.it/yk4zyjsasci71.png?width=974&format=png&auto=webp&s=420e7a6626bfed8a5906e7628f5893e6c95fb016) 
 Resources
 - GRE WORD CLUSTER from Reddit
 https://docs.google.com/spreadsheets/d/1dS9Vmzh1WJIE5h5cxSHQC0U5U_zKoaEF/edit#gid=845230344
