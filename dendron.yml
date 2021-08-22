@@ -35,7 +35,7 @@ journal:
     firstDayOfWeek: 1
 dendronVersion: 0.52.0
 dev:
-    previewV2Enabled: false
+    previewV2Enabled: true
 scratch:
     name: scratch
     dateFormat: y.MM.dd.HHmmss
