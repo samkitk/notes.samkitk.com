@@ -2,22 +2,24 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ''
-updated: 1629617221524
+updated: 1629634161734
 created: 1629538004250
 ---
 
 Materials
 
-Super Power Pack
-- The Official Guide to the GRE General Test, Third Edition 3rd Edition, Kindle Edition
+- Official Material
+    - **Official Guide** to the GRE General Test, Third Edition 3rd Edition, Kindle Edition - [PDF](/assets/pdf/ETS_OG.pdf)
 
-- Official GRE Verbal Reasoning Practice Questions, Second Edition 2nd Edition, Kindle Edition
+    - **Official GRE Verbal** Reasoning Practice Questions, Second Edition 2nd Edition, Kindle Edition - [PDF](/assets/pdf/ETS_Verb.pdf)
 
-- Official GRE Quantitative Reasoning Practice Questions, Second Edition, Volume 1 2nd Edition
+    - **Official GRE Quantitative** Reasoning Practice Questions, Second Edition, Volume 1 2nd Edition - [PDF](/assets/pdf/ETS_Quant.pdf)
 
-- [ETS Math Review](/assets/pdf/gre_math_review.pdf)
+    - **Official ETS Combined Power Pack** - [PDF](/assets/pdf/ETS_PowerPack.pdf)
 
-- [Big Book](/assets/pdf/Big_Book_New_Edition.pdf)
+    - [ETS Math Review](/assets/pdf/gre_math_review.pdf)
+
+    - [Big Book](/assets/pdf/Big_Book_New_Edition.pdf)
 
 - Word List
     - [PDF](https://gregmatapi.s3.amazonaws.com/media/misc/files/gregmat_wordlist.pdf)
