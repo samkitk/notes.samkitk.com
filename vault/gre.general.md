@@ -11,4 +11,4 @@ Materials
 Super Power Pack
 - Q
 
-[Paper Based GRE](assets/pdf/practice_book_GRE_pb_revised_general_test.pdf)
+[Paper Based GRE](/assets/pdf/practice_book_GRE_pb_revised_general_test.pdf)
