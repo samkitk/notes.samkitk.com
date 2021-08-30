@@ -2,7 +2,7 @@
 id: Rx2HYfpXk8T4B2MhtGEdB
 title: Rclone
 desc: ''
-updated: 1630301194747
+updated: 1630302339372
 created: 1630297981037
 ---
 
@@ -50,7 +50,14 @@ Folder ID is **XXXX**
 ### Service Account
 ` press enter - blank `
 
+(If you're on a headless machine, in auto config Choose NO)
+
 
 ## Command to Execute after the Remote Setup is done
 
-`rclone copy "/srv/airtime/stor/imported/1" "gdrive-server" --dry-run --progress -V --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
+DRY RUN
+`rclone copy "/srv/airtime/stor/imported/1" "gdrive-server:FolderNameYouChoose" --dry-run --progress -V --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
+
+
+Final
+`rclone copy "/srv/airtime/stor/imported/1/anakrit" "gdrive-server:1Backup" --progress --verbose --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
