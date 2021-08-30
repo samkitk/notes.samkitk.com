@@ -2,7 +2,7 @@
 id: ZAnOfd2gZ6LnhhkBZxhmE
 title: L3
 desc: ''
-updated: 1629447758733
+updated: 1629697070871
 created: 1629437919229
 ---
 
@@ -178,7 +178,7 @@ So Time Period = 1 micro second  == 10<sup>-3</sup> second
 
 ![](/assets/images/2021-08-20-14-20-17.png)
 
-Not sure which is correct
+**Not Correct**
 ```
 #include <avr/io.h>
 
@@ -201,7 +201,7 @@ int main()
 }
 
 ```
-Not Sure
+**This is correct**
 ```
 #include <avr/io.h>
 
