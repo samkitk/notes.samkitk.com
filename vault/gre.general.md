@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ""
-updated: 1630413751612
+updated: 1630413992926
 created: 1629538004250
 ---
 
@@ -33,7 +33,6 @@ Materials
   - [500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
   - [Vince Kotchian's Word Curation](https://docs.google.com/spreadsheets/d/1K4gS--jbDYbdlqem6Hir3FAwvLB9dFxNCLftE3ePduk/edit#gid=2009214833)
   - [Anki's Vocab Deck](https://ankiweb.net/shared/info/1770632730)
-  - [Clustered (Reddit)](https://docs.google.com/spreadsheets/d/1dS9Vmzh1WJIE5h5cxSHQC0U5U_zKoaEF/edit#gid=1547928412)
 
 - GRE-LEVEL READING  
   The Economist  
@@ -56,5 +55,7 @@ Materials
     - GRE WORD CLUSTER from Reddit
     https://docs.google.com/spreadsheets/d/1dS9Vmzh1WJIE5h5cxSHQC0U5U_zKoaEF/edit#gid=845230344
 
-- GregMat List w Meaning  
-  https://docs.google.com/spreadsheets/d/1PsOjn4WOALEujMvNlcNvSwB0LlvALTgl/edit#gid=2021787092
+    - GregMat List w Meaning
+    https://docs.google.com/spreadsheets/d/1PsOjn4WOALEujMvNlcNvSwB0LlvALTgl/edit#gid=2021787092
+
+    - [Someone's Notes](/assets/pdf/Random_GRE_Notes.pdf)
