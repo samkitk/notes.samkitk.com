@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ""
-updated: 1630414491361
+updated: 1630417073375
 created: 1629538004250
 ---
 
@@ -33,6 +33,8 @@ Materials
   - [500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
   - [Vince Kotchian's Word Curation](https://docs.google.com/spreadsheets/d/1K4gS--jbDYbdlqem6Hir3FAwvLB9dFxNCLftE3ePduk/edit#gid=2009214833)
   - [Anki's Vocab Deck](https://ankiweb.net/shared/info/1770632730)
+  - [GRE Prep Club Vocab Videos](https://docs.google.com/spreadsheets/d/1lZ75n2mD7g2Rl-Po1ndg8aoB_iNXkFX0ZqSGmrraxxM/edit#gid=0)
+  - [GRE Prep Club Ranked Words](https://docs.google.com/spreadsheets/d/1pvfkn0a6cinaOpfy7f5MQcu7FDew-6hKpJ6tOqoFFL8/edit#gid=0)
 
 - GRE-LEVEL READING  
   The Economist  
@@ -50,6 +52,8 @@ Materials
    - [QC](https://www.greenlighttestprep.com/sites/default/files/GRE%20Math%20flashcards%20-%20GreenlightTestPrep_1.pdf)
    - [Christmas Test](https://drive.google.com/file/d/1q26DxqumsBA4jipCRe5Kh2ITutimgqge/view)
    - Quadrilaterals Formula (https://preview.redd.it/yk4zyjsasci71.png?width=974&format=png&auto=webp&s=420e7a6626bfed8a5906e7628f5893e6c95fb016)
+
+   - [Quant Mind Map Topics <> Khan Academy](https://www.mindmeister.com/1544542390?t=BPyawqziLm)
 
    - Quant Topics (Reddit - not sure if trustable)
    <details>
