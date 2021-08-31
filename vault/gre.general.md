@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ""
-updated: 1629689592244
+updated: 1630413751612
 created: 1629538004250
 ---
 
@@ -19,7 +19,6 @@ Materials
   - **Official ETS Combined Power Pack** - [PDF](/assets/pdf/ETS_PowerPack.pdf)
 
   - [ETS Math Review](/assets/pdf/gre_math_review.pdf)
-
   - [Big Book](/assets/pdf/Big_Book_New_Edition.pdf)
 
 - Word List
@@ -34,6 +33,7 @@ Materials
   - [500 Flashcards](https://quizlet.com/18795939/gre-basic-flash-cards/)
   - [Vince Kotchian's Word Curation](https://docs.google.com/spreadsheets/d/1K4gS--jbDYbdlqem6Hir3FAwvLB9dFxNCLftE3ePduk/edit#gid=2009214833)
   - [Anki's Vocab Deck](https://ankiweb.net/shared/info/1770632730)
+  - [Clustered (Reddit)](https://docs.google.com/spreadsheets/d/1dS9Vmzh1WJIE5h5cxSHQC0U5U_zKoaEF/edit#gid=1547928412)
 
 - GRE-LEVEL READING  
   The Economist  

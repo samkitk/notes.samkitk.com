@@ -2,7 +2,7 @@
 id: Rx2HYfpXk8T4B2MhtGEdB
 title: Rclone
 desc: ''
-updated: 1630302339372
+updated: 1630305187855
 created: 1630297981037
 ---
 
@@ -58,6 +58,5 @@ Folder ID is **XXXX**
 DRY RUN
 `rclone copy "/srv/airtime/stor/imported/1" "gdrive-server:FolderNameYouChoose" --dry-run --progress -V --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
 
-
 Final
-`rclone copy "/srv/airtime/stor/imported/1/anakrit" "gdrive-server:1Backup" --progress --verbose --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
+`rclone copy "/srv/airtime/stor/imported/1" "gdrive-server:MainBackup" --progress --verbose --transfers 40 --checkers 10 --contimeout 60s --timeout 300s --retries 3 --low-level-retries 10`
