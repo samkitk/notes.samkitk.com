@@ -2,7 +2,7 @@
 id: MqzBHxMjLDC55rLhmaae6
 title: General
 desc: ""
-updated: 1630413992926
+updated: 1630414491361
 created: 1629538004250
 ---
 
@@ -50,6 +50,60 @@ Materials
    - [QC](https://www.greenlighttestprep.com/sites/default/files/GRE%20Math%20flashcards%20-%20GreenlightTestPrep_1.pdf)
    - [Christmas Test](https://drive.google.com/file/d/1q26DxqumsBA4jipCRe5Kh2ITutimgqge/view)
    - Quadrilaterals Formula (https://preview.redd.it/yk4zyjsasci71.png?width=974&format=png&auto=webp&s=420e7a6626bfed8a5906e7628f5893e6c95fb016)
+
+   - Quant Topics (Reddit - not sure if trustable)
+   <details>
+    <summary>Click Here</summary>
+    
+    The complete list of GRE quant topics
+
+      - [ ] Absolute value 
+      - [ ] Algebraic manipulation
+      - [ ] Angles of any polygon
+      - [ ] Areas
+      - [ ] Arithmetic and geometric sequences
+      - [ ] Circles
+      - [ ] Counting, Permutations, and Combinations
+      - [ ] Decimals
+      - [ ] Difference of squares
+      - [ ] Equation of a circle
+      - [ ] Equation of a parabola
+      - [ ] Evens, odds, and primes
+      - [ ] Exponents
+      - [ ] Factoring
+      - [ ] Fractions
+      - [ ] Functions:
+      - [ ] Interest
+      - [ ] Intersecting sets
+      - [ ] Linear equations and coordinate geometry
+      - [ ] Mean, median, range
+      - [ ] Minimizing and maximizing
+      - [ ] Mixtures
+      - [ ] Multiples, least common multiples, and greatest common divisors
+      - [ ] Normal/standard distribution
+      - [ ] Percentages
+      - [ ]  Positives and negatives
+      - [ ] Practice questions:
+      - [ ] Probability
+      - [ ] Quadratics
+      - [ ] Mental math tricks
+      - [ ] Rate
+      - [ ] Ratios
+      - [ ] Remainders
+      - [ ] Revenue/profits/costs
+      - [ ] Roots
+      - [ ] Simultaneous equations
+      - [ ] Standard deviation
+      - [ ] Supplementary angles and parallel lines
+      - [ ] Translating words into equations
+      - [ ] Triangles
+      - [ ] Unit conversion and scientific notation
+      - [ ] Variables in answer choices
+      - [ ] Volume and surface of 3 dimensional shapes
+      - [ ] Work
+
+
+   
 
 - Resources
     - GRE WORD CLUSTER from Reddit
