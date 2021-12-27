@@ -1,0 +1,50 @@
+version: 1
+vaults:
+    -
+        fsPath: vault
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+dev:
+    previewV2Enabled: true
+lookup:
+    note:
+        selectionType: selectionExtract
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
+site:
+    siteUrl: 'https://notes.samkitk.com'
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Samkit's Notes
+    description: Personal knowledge space
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+    ga_tracking: UA-174569008-1
+    logo: vault/logo-new.gif
+    siteLastModified: true
+    author: Samkit
+    twitter: samkitkundalia
+    siteFaviconPath: vault/favicon.ico
+u`NoteTitleForLink: true
+initializeRemoteVaults: true
+dendronVersion: 0.56.0

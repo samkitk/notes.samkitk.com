@@ -1,5 +1,5 @@
 ---
-id: 2rnuNUnOTOuP8awSQxqHX
+id: jUJ8K87KaUiEYbjA0hnmD
 title: Coffee Can Investing
 desc: ''
 updated: 1628232792943

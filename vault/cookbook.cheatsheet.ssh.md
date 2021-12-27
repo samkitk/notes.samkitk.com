@@ -1,5 +1,5 @@
 ---
-id: GJqlqCYimsU8ltnk0sZy5
+id: ByyUriQuvOaJ4hjRIQHg1
 title: SSH
 desc: ''
 updated: 1624208566018

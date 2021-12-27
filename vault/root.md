@@ -1,6 +1,6 @@
 ---
-id: 0f63ea60-53aa-46f4-b656-5c1f0860462c
-title: Home 🏡
+id: IAmmxIicXy9fMTZs5xz7v
+title: "Home \U0001F3E1"
 desc: ''
 updated: 1628236590075
 created: 1623255886799
