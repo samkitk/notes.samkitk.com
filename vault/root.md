@@ -2,13 +2,9 @@
 id: IAmmxIicXy9fMTZs5xz7v
 title: "Home \U0001F3E1"
 desc: ''
-updated: 1628236590075
+updated: 1641359009049
 created: 1623255886799
 ---
-## Hey2
-
-helll
-# hiii
 
 Welcome to my [Digital Garden](https://joelhooks.com/digital-garden "What is a Digital Garden?")!
 
